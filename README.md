@@ -1,4 +1,5 @@
 ItemGenerator
+
 This project is an automated pipeline designed for RPG and Roguelike game designers to rapidly prototype dungeon layouts and complex item balances. By adjusting various constraints and parameters, designers can simulate thousands of gameplay scenarios and reward structures without manual asset placement.
 
 Key Features
